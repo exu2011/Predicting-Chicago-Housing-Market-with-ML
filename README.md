@@ -24,3 +24,4 @@ Visualization program: Tableau
 This project was done in collaboration with Dan, Rachel, Leila and John. We started out by downloading the data from the above databases: National case Shiller Home Price, Fred database on median list prices, inflation rate, kagga databases.
 
 In Jupyter lab, open Chicago2.0.ipynb to run the program
+ I have updated github with two factor authentification as well as personal token access.
